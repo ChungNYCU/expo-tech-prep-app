@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "expo-tech-prep-app",
+    "slug": "expo-tech-prep-app"
+  }
+}
